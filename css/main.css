@@ -1,0 +1,41 @@
+*{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.class-1 {
+	background: red;
+	width: 100%;
+	height: 80px;
+}
+.class-2 {
+	background: blue;
+	position: absolute;
+	top:80px;
+	left: 0;
+	width: 33.3%;
+	height: 900px;
+}
+.class-3 {
+	background: purple;
+	position: absolute;
+	top:80px;
+	left: 426px;
+	width: 33.3%;
+	height: 900px;
+}
+.class-4 {
+	background: yellow;
+	position: absolute;
+	top: 80px;
+	left: 852px;
+	width: 33.3%;
+	height: 900px;
+}
+.class-5{
+	background: green;
+	position: absolute;
+	top: 980px;
+	width: 100%;
+	height: 80px;
+}
